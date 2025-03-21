@@ -1,0 +1,4 @@
+../Core/Src/z_vl53l1_test.c:80:6:VL53L1__testRanging	13
+../Core/Src/z_vl53l1_test.c:177:6:VL53L1__testGesture	6
+../Core/Src/z_vl53l1_test.c:212:6:VL53L1__testMenu	2
+../Core/Src/z_vl53l1_test.c:230:6:VL53L1X__GestureMenu_Items	9
